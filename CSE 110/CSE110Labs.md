@@ -3,3 +3,4 @@
 
 ### Additional Labs
 - [CSE 110 Personal Site](https://github.com/ntrappe/ntrappe.github.io)
+- [CSE 110 Lab 5 Party Horn](https://github.com/ntrappe/Lab5_PartyHorn)
