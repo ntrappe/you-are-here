@@ -150,7 +150,7 @@ Attend open days and campus visits. Be prepared to meet with potential faculty m
 
 ### It's a 'Yes'
 
-## Final Check List
+## X. Final Check List
 - [ ] Decide on a PhD or Master's
 - [ ] Identify 2-3 research areas
 - [ ] List 2-3 schools (domestic) or 4-6 (+interactional)
