@@ -3,14 +3,14 @@
 ### Table of Contents
 - [Introduction](#i-introduction)
 - [Choosing a Phd or Master's](#ii-choosing-a-phd-or-masters)
-- <a href="#area">Identifying Your Research Area</a>
-- <a href="#schools">Selecting Suitable Schools</a>
-- <a href="#artifacts">Preparing Application Artifacts</a>
-- <a href="#supervisors">Contact Potential Supervisors</a>
-- <a href="#app">The Application Process</a>
-- <a href="#review">Application Review</a>
-- <a href="#decisions">Decisions</a>
-- <a href="#checklist">Final Check List</a>
+- [Identifying Your Research Area](#iii-identifying-your-research-area)
+- [Selecting Suitable Schools](#iv-selecting-suitable-schools)
+- [Preparing Application Artifacts](#v-preparing-application-artifacts)
+- [Contact Potential Supervisors](#vi-contact-potential-supervisors)
+- [The Application Process](#vii-the-application-process)
+- [Application Review](#viii-application-review)
+- [Decisions](#ix-decisions)
+- [Final Check List](#x-final-check-list)
 
 ## I. Introduction
 ### Purpose
@@ -31,14 +31,14 @@ This guide will help you navigate the PhD application process.
 - If you are passionate about research, want to teach at the university level, or desire a career in academia, aim for a PhD. 
 - If your career goals are in a specific field that values practical skills and knowledge over research, a Master's might be sufficient. 
 
-## <a href="#area" id="area">III. Identifying Your Research Area</a>
+## III. Identifying Your Research Area
 - Start with your interests and passions _(research is a long and demanding so pick something you love)_ 
 - Reflect on the subjects or topics you excelled in during your studies.
 - Seek guidance from professors, mentors, advisors, and friends.
 - Use [Google Scholar](https://scholar.google.com) to explore academic journals, books, or articles related to your field and see which areas have research potential.
 - Make use of tools like [ChatGPT](https://chat.openai.com/) to identify gaps in research.
 
-## <a href="#schools" id="schools">IV. Selecting Suitable Schools</a>
+## IV. Selecting Suitable Schools
 - Investigate a multitude of universities and programs.
 - Consider factors like location, cost of living, reputation, funding, etc. 
 - Create a list of potential schools that align with your interests. 
@@ -64,7 +64,7 @@ Would you be down for a virtual coffee chat or LinkedIn chat?
 Thanks and lmk!
 ```
 
-## <a href="#artifacts" id="artifacts">V. Preparing Application Artifacts</a>
+## V. Preparing Application Artifacts
 ### Transcripts
 Request official transcripts and double-check that the transcript you've ordered meets the schools' requirements. _(Note that ordering transcripts can cost between $100-200)._
 
@@ -108,7 +108,7 @@ Thanks,
 <Your Name>
 ```
 
-## <a href="#supervisors" id="supervisors">VI. Contact Potential Supervisors</a>
+## VI. Contact Potential Supervisors
 ### Faculty Fit
 - Understand what your own needs and requirements first: cadence of meetings, management style, lab size, time commitment, methods, etc.
 - Align with a potential supervisor to ensure that you'll receive the support you need and that you're the type of student they can take on.
@@ -125,7 +125,7 @@ Thanks,
 - Write a concise, polite, well-researched emails to initiate contact.
 - Ensure that they are taking new students.
 
-## <a href="#app" id="app">VII. The Application Process</a>
+## VII. The Application Process
 ### Deadlines
 Note application deadlines and submission methods. Stick deadlines on your calendar and send invites to those writing your recommendation letters. Give yourself a few days before the deadline to request transcripts or letters.
 
@@ -135,7 +135,7 @@ Applications can run from $70-200. If applicable, apply for fee waivers or email
 ### Submission
 Ensure that you have 100% submitted the application. Check that your faculty have also submitted their letters at least 2-3 letters prior to your deadline. Try to submit applications days ahead of the official deadline for processing, errors, or accidents.
 
-## <a href="#review" id="review">VIII. Application Review</a>
+## VIII. Application Review
 ### Waiting
 Notifications of acceptance range from 1-3 months post submission. 
 
@@ -145,12 +145,12 @@ If interviews are part of the process, prepare by studying the program, your pot
 ### Visits
 Attend open days and campus visits. Be prepared to meet with potential faculty members and surface questions about research, your interests, and many other topics. ["A Field Guide to Grad School"](https://press.princeton.edu/books/paperback/9780691201092/a-field-guide-to-grad-school) has a helpful section on this.
 
-## <a href="#decisions" id="decisions">IX. Decisions</a>
+## IX. Decisions
 ### It's a 'No'
 
 ### It's a 'Yes'
 
-## <a href="#list" id="list">Final Check List</a>
+## Final Check List
 - [ ] Decide on a PhD or Master's
 - [ ] Identify 2-3 research areas
 - [ ] List 2-3 schools (domestic) or 4-6 (+interactional)
