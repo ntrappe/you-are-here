@@ -1,22 +1,40 @@
 # A Step-by-Step Guide to Applying for a PhD
 
 ### Table of Contents
-- [Introduction](#i-introduction)
-- [Choosing a Phd or Master's](#ii-choosing-a-phd-or-masters)
-- [Identifying Your Research Area](#iii-identifying-your-research-area)
-- [Selecting Suitable Schools](#iv-selecting-suitable-schools)
-- [Preparing Application Artifacts](#v-preparing-application-artifacts)
-- [Contact Potential Supervisors](#vi-contact-potential-supervisors)
-- [The Application Process](#vii-the-application-process)
-- [Application Review](#viii-application-review)
-- [Decisions](#ix-decisions)
-- [Final Check List](#x-final-check-list)
+1. [Quick Start](#i-quick-start)
+2. [Introduction](#ii-introduction)
+3. [Choosing a Phd or Master's](#iii-choosing-a-phd-or-masters)
+4. [Identifying Your Research Area](#iv-identifying-your-research-area)
+5. [Selecting Suitable Schools](#v-selecting-suitable-schools)
+6. [Preparing Application Artifacts](#vi-preparing-application-artifacts)
+7. [Contact Potential Supervisors](#vii-contact-potential-supervisors)
+8. [The Application Process](#viii-the-application-process)
+9. [Application Review](#ix-application-review)
+10. [Interviews](#x-interviews)
+11. [Decisions](#xi-decisions)
 
-## I. Introduction
+## I. Quick Start 🚀
+The section provides a concise checklist of the major steps involved in the graduate school application process. For more detailed information and guidance on each step, please continue reading the following sections of this guide.
+
+### Check List
+- [ ] Decide on a PhD or Master's
+- [ ] Identify 2-3 research areas
+- [ ] List 2-3 schools (domestic) or 4-6 (+interactional)
+- [ ] Take GREs/exams if mandatory
+- [ ] Prepare CV/Resume
+- [ ] DM 2-3 students per school on LinkedIn
+- [ ] Interview 1+ students per school
+- [ ] Email 2-5 professors for a letter of recommendation
+- [ ] Order and send/upload transcript
+- [ ] Draft statements
+- [ ] Ask 2-3 people to review your statements
+- [ ] Submit application and _confirm_ submission
+
+## II. Introduction
 ### Purpose
-This guide will help you navigate the PhD application process.
+Welcome to the guide for navigating the graduate application process! 👋 This guide is designed to help you understand the steps involved in applying and to provide you with resources, examples, and tips to make the process less overwhelming. Whether you're just starting to consider graduate school or are already in the midst of the application process, this guide is here to help you feel excited and prepared for what's to come.
 
-## II. Choosing a PhD or Master's
+## III. Choosing a PhD or Master's
 ### Differences
 | Aspect | PhD | Master's |
 | ------- | ---- | --------- |
@@ -31,14 +49,14 @@ This guide will help you navigate the PhD application process.
 - If you are passionate about research, want to teach at the university level, or desire a career in academia, aim for a PhD. 
 - If your career goals are in a specific field that values practical skills and knowledge over research, a Master's might be sufficient. 
 
-## III. Identifying Your Research Area
+## IV. Identifying Your Research Area
 - Start with your interests and passions _(research is a long and demanding so pick something you love)_ 
 - Reflect on the subjects or topics you excelled in during your studies.
 - Seek guidance from professors, mentors, advisors, and friends.
 - Use [Google Scholar](https://scholar.google.com) to explore academic journals, books, or articles related to your field and see which areas have research potential.
 - Make use of tools like [ChatGPT](https://chat.openai.com/) to identify gaps in research.
 
-## IV. Selecting Suitable Schools
+## V. Selecting Suitable Schools
 - Investigate a multitude of universities and programs.
 - Consider factors like location, cost of living, reputation, funding, etc. 
 - Create a list of potential schools that align with your interests. 
@@ -64,7 +82,7 @@ Would you be down for a virtual coffee chat or LinkedIn chat?
 Thanks and lmk!
 ```
 
-## V. Preparing Application Artifacts
+## VI. Preparing Application Artifacts
 ### Transcripts
 Request official transcripts and double-check that the transcript you've ordered meets the schools' requirements. _(Note that ordering transcripts can cost between $100-200)._
 
@@ -108,7 +126,7 @@ Thanks,
 <Your Name>
 ```
 
-## VI. Contact Potential Supervisors
+## VII. Contact Potential Supervisors
 ### Faculty Fit
 - Understand what your own needs and requirements first: cadence of meetings, management style, lab size, time commitment, methods, etc.
 - Align with a potential supervisor to ensure that you'll receive the support you need and that you're the type of student they can take on.
@@ -125,7 +143,7 @@ Thanks,
 - Write a concise, polite, well-researched emails to initiate contact.
 - Ensure that they are taking new students.
 
-## VII. The Application Process
+## VIII. The Application Process
 ### Deadlines
 Note application deadlines and submission methods. Stick deadlines on your calendar and send invites to those writing your recommendation letters. Give yourself a few days before the deadline to request transcripts or letters.
 
@@ -135,27 +153,20 @@ Applications can run from $70-200. If applicable, apply for fee waivers or email
 ### Submission
 Ensure that you have 100% submitted the application. Check that your faculty have also submitted their letters at least 2-3 letters prior to your deadline. Try to submit applications days ahead of the official deadline for processing, errors, or accidents.
 
-## VIII. Application Review
+## IX. Application Review
 ### Waiting
 Notifications of acceptance range from 1-3 months post submission. 
 
-### Interviews
-If interviews are part of the process, prepare by studying the program, your potential fit, and the research you want to present. Interviews often occur in the middle of January and February. If you are asked to interview, you're 80% of the way there.
+## X. Interviews
+If interviews are part of the process, prepare by studying the program, your potential fit, and the research you want to present. Interviews often between January and March.  If you are asked to interview, you're 80% of the way there.
 
-### Visits
-Attend open days and campus visits. Be prepared to meet with potential faculty members and surface questions about research, your interests, and many other topics. ["A Field Guide to Grad School"](https://press.princeton.edu/books/paperback/9780691201092/a-field-guide-to-grad-school) has a helpful section on this.
+> [!NOTE]
+> More information coming soon
 
-## IX. Decisions
+## XI. Decisions
 ### It's a 'No'
 
 ### It's a 'Yes'
 
-## X. Final Check List
-- [ ] Decide on a PhD or Master's
-- [ ] Identify 2-3 research areas
-- [ ] List 2-3 schools (domestic) or 4-6 (+interactional)
-- [ ] Order and send transcript
-- [ ] Attach CV/Resume
-- [ ] DM 2-3 students per school
-- [ ] Email 2-5 professors for a letter of recommendation
-- [ ] Draft statements
+### Visits
+Attend open days and campus visits. Be prepared to meet with potential faculty members and surface questions about research, your interests, and many other topics. ["A Field Guide to Grad School"](https://press.princeton.edu/books/paperback/9780691201092/a-field-guide-to-grad-school) has a helpful section on this.
